@@ -1,5 +1,9 @@
 # DevOps
 My journey into DevOps - the start of something great!
+
+I got interested in learning DevOps the first time I heard about it. I love the idea of building infrastructure for the scalability and maintenance of applications and for easy development workflow.
+
+Join me on this journey of growth.
 # Roadmap
 
 - https://roadmap.sh/devops
