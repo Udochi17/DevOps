@@ -1,8 +1,7 @@
 # DevOps Learning Journey
 
-Hello, my name is Udochi.
-
-I am a Mathematics and Computer Science student with a strong interest in DevOps, cloud infrastructure, automation, and systems engineering.
+Hello, my name is Udochukwu.
+I am a college student with a strong interest in DevOps, cloud infrastructure, automation, and systems engineering.
 
 Recently, I was selected for a DevOps scholarship program that will provide structured training in Linux, Docker, CI/CD, cloud platforms, and infrastructure automation.
 
@@ -13,8 +12,6 @@ This repository exists to document my learning journey, practical notes, command
 I am interested in DevOps because it combines software, systems, automation, and problem-solving.
 
 I enjoy understanding how systems work, how applications are deployed, how servers communicate, and how automation can make technology more efficient and reliable.
-
-As a Mathematics and Computer Science student, I am especially interested in the logical and systems-thinking side of DevOps.
 
 ## Current Focus Areas
 
